@@ -1,0 +1,42 @@
+[
+	{
+		"Author": "XIV Tools",
+		"Name": "Customize+",
+		"Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
+		"InternalName": "CustomizePlus",
+		"AssemblyVersion": "0.0.0.7",
+		"TestingAssemblyVersion": "0.0.0.7",
+		"RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 6,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"LoadPriority": 0,
+		"DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+		"DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+		"DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png"
+	},
+	{
+		"Author": "XIV Tools",
+		"Name": "Fullscreen Toggle",
+		"Description": "Enter and leave fullscreen quickly with Alt+Enter",
+		"InternalName": "FullscreenToggle",
+		"AssemblyVersion": "0.0.0.1",
+		"TestingAssemblyVersion": "0.0.0.1",
+		"RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 6,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"LoadPriority": 0,
+		"DownloadLinkInstall": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+		"DownloadLinkTesting": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+		"DownloadLinkUpdate": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png"
+	}
+]
