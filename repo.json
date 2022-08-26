@@ -24,7 +24,7 @@
 		"Author": "XIV Tools",
 		"Name": "Fullscreen Toggle",
 		"Description": "Enter and leave fullscreen quickly with Alt+Enter",
-		"Punchline": "Enter and leave fullscreen quickly with Alt+Enter",
+		"Punchline": "Enter and leave fullscreen quickly with Alt+Enter ",
 		"InternalName": "FullscreenToggle",
 		"AssemblyVersion": "1.0.1.0",
 		"TestingAssemblyVersion": "1.0.1.0",
