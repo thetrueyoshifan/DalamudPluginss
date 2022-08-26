@@ -27,7 +27,7 @@
 		"Punchline": "Enter and leave fullscreen quickly with Alt+Enter",
 		"InternalName": "FullscreenToggle",
 		"AssemblyVersion": "1.0.1.0",
-		"TestingAssemblyVersion": 1.0.1.0",
+		"TestingAssemblyVersion": "1.0.1.0",
 		"RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 7,
