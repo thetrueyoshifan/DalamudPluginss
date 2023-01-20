@@ -25,10 +25,11 @@
 		"Author": "XIV Tools",
 		"Name": "Fullscreen Toggle",
 		"Description": "Enter and leave fullscreen quickly with Alt+Enter",
+		"Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
 		"Punchline": "Enter and leave fullscreen quickly with Alt+Enter ",
 		"InternalName": "FullscreenToggle",
-		"AssemblyVersion": "1.0.1.1",
-		"TestingAssemblyVersion": "1.0.1.1",
+		"AssemblyVersion": "1.0.1.3",
+		"TestingAssemblyVersion": "1.0.1.3",
 		"RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 8,
@@ -40,6 +41,7 @@
 		"DownloadLinkInstall": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
 		"DownloadLinkTesting": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
 		"DownloadLinkUpdate": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
-		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png"
+		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png",
+		"Changelog": ""
 	}
 ]
