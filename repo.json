@@ -5,8 +5,8 @@
 		"Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
 		"Punchline": "Customize your character beyond FFXIV's limitations.",
 		"InternalName": "CustomizePlus",
-		"AssemblyVersion": "0.0.1.5",
-		"TestingAssemblyVersion": "0.0.1.5",
+		"AssemblyVersion": "0.0.1.6",
+		"TestingAssemblyVersion": "0.0.1.6",
 		"RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 8,
@@ -19,7 +19,8 @@
 		"DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-		"Changelog": "0.0.1.5\n- Bone Rotation and Position is here! You can now modify all of these things via the ingame editor. Note that these are advanced features that may cause unexpected results, dont say you have not been warned. Additionaly they will be disabled once you enable Posing tools inside GPose. Thanks Alexsey!\n- Reworked the Design, it now scales correctly on High Res and Higher Font scales.\n- Added Ability to Import and Export to Clipboard.\n- The command /customize will now close the window if its open.\n- Added a new command: /customize-apply [character name],[scale name]. Thanks Caio!\n- Fixed a bug that caused the Selection Ring to appear on yourself instead of your target."
+		"Changelog": "0.0.1.6\n- Ignore root bone when setting transforms (fixes effects, nameplates and camera)\n- Custom precision slider\n- Removed duplicate AddCommand\n- Reworked Cutscene Name and added Penumbra String as Nugget, thanks Dark!\n- Improved Editing Interface
+"
 	},
 	{
 		"Author": "XIV Tools",
