@@ -19,8 +19,7 @@
 		"DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-		"Changelog": "0.0.1.6\n- Ignore root bone when setting transforms (fixes effects, nameplates and camera)\n- Custom precision slider\n- Removed duplicate AddCommand\n- Reworked Cutscene Name and added Penumbra String as Nugget, thanks Dark!\n- Improved Editing Interface
-"
+		"Changelog": "0.0.1.6\n- Ignore root bone when setting transforms (fixes effects, nameplates and camera)\n- Custom precision slider\n- Removed duplicate AddCommand\n- Reworked Cutscene Name and added Penumbra String as Nugget, thanks Dark!\n- Improved Editing Interface"
 	},
 	{
 		"Author": "XIV Tools",
