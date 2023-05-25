@@ -5,8 +5,8 @@
 		"Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
 		"Punchline": "Customize your character beyond FFXIV's limitations.",
 		"InternalName": "CustomizePlus",
-		"AssemblyVersion": "0.0.1.6",
-		"TestingAssemblyVersion": "0.0.1.6",
+		"AssemblyVersion": "0.0.1.7",
+		"TestingAssemblyVersion": "0.0.1.7",
 		"RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 8,
@@ -19,7 +19,7 @@
 		"DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-		"Changelog": "0.0.1.6\n- Ignore root bone when setting transforms (fixes effects, nameplates and camera)\n- Custom precision slider\n- Removed duplicate AddCommand\n- Reworked Cutscene Name and added Penumbra String as Nugget, thanks Dark!\n- Improved Editing Interface"
+		"Changelog": "0.0.1.7 -6.40 signatures by Alex"
 	},
 	{
 		"Author": "XIV Tools",
